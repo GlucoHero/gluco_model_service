@@ -3,7 +3,7 @@ import numpy as np
 import time
 
 def test_api():
-    url = "http://127.0.0.1:8000/predict"
+    url = "http://127.0.0.1:8001/predict"
     
     # Generate mock data (288, 3)
     mock_data = []
